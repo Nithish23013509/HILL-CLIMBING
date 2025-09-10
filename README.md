@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:             </h3>
-<h3>Register Number:             </h3>
+<h3>Name:   NITHISH S         </h3>
+<h3>Register Number:    212223220070        </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -107,5 +107,5 @@ Score: 0  Solution :  Artificial Intelligence<br>
 
     SimpleHillClimbing()
 
-<Output>
+<h3>Output</h3>
 <img width="705" height="338" alt="Screenshot 2025-09-10 155304" src="https://github.com/user-attachments/assets/2272e735-6a58-409d-b4cb-24132bd02dc7" />
